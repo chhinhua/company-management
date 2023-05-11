@@ -1,0 +1,6 @@
+[submodule "company-management-ado"]
+	path = company-management-ado
+	url = git@github.com:chhinhua/company-management-ado.git
+[submodule "company-management-entity"]
+	path = company-management-entity
+	url = git@github.com:chhinhua/company-management-entity.git
